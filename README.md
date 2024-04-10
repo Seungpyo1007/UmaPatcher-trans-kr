@@ -1,3 +1,9 @@
+<p align="center"> 
+  <a href="README.md">English</a> 
+  ·
+  <a href="README_KR.md">한국어</a> 
+</p>
+
 # MalDDalPatcher - Korean Translations
 This is the Korean translations repository for UmaPatcher.
 
