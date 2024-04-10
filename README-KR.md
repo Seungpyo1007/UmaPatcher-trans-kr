@@ -1,3 +1,10 @@
+<p align="center"> 
+  <a href="README.md">English</a> 
+  ·
+  <a href="README-KR.md">한국어</a> 
+</p>
+
+
 # MalDDalPatcher - 한국어 번역
 UmaPatcher의 한국어 번역 저장소입니다.
 
