@@ -4,6 +4,8 @@
   <a href="README-KR.md">한국어</a> 
 </p>
 
+[![](https://dcbadge.vercel.app/api/server/bGyA4Zsh4u)](https://discord.gg/bGyA4Zsh4u) ![](https://dcbadge.vercel.app/api/shield/731662377799647384)
+
 # MalDDalPatcher - Korean Translations
 This is the Korean translations repository for UmaPatcher.
 
