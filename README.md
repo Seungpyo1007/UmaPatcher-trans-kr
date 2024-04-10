@@ -1,7 +1,7 @@
 <p align="center"> 
   <a href="README.md">English</a> 
   ·
-  <a href="README_KR.md">한국어</a> 
+  <a href="README-KR.md">한국어</a> 
 </p>
 
 # MalDDalPatcher - Korean Translations
