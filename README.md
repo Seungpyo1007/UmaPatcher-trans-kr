@@ -5,7 +5,7 @@
 </p>
 
 # MalDDalPatcher - Korean Translations
-This is the Korean translations repository for UmaPatcher.
+This is the Korean translations repository for MalDDalPatcher.
 
 ### How to use
 Open MalDDalPatcher, go to Settings and set these values:
