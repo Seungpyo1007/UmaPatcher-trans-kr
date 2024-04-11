@@ -19,5 +19,4 @@ Tap the sync button (on the top right of the Home screen) to download data from 
 https://github.com/LeadRDRK/umamusu-translate
 
 # Korean only
-
-
+https://drive.google.com/drive/folders/1sQ9x6RP_a59AfUb7YWuvy33u7je4s_9c?usp=sharing

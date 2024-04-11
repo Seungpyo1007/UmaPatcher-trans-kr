@@ -20,3 +20,4 @@ MalDDalPatcher를 열고 설정으로 이동하여 다음 값을 설정하세요
 https://github.com/LeadRDRK/umamusu-translate
 
 # 한국어 전용
+https://drive.google.com/drive/folders/1sQ9x6RP_a59AfUb7YWuvy33u7je4s_9c?usp=sharing
