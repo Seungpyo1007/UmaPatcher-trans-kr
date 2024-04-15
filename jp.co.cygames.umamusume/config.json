@@ -1,0 +1,88 @@
+{
+    "enableConsole": false,
+    "enableLogger": false,
+    "dumpStaticEntries": false,
+    "maxFps": -1,
+    "highQuality": false,
+    "enableVSync": false,
+    "unlockSize": false,
+    "uiScale": 1.0,
+    "extraAssetBundlePath": "localized_data/includes",
+    "replaceFont": true,
+    "customFontPath": "assets/RodinWanpakuPro-B-ex.otf",
+    "customFontSizeOffset": -3,
+    "customFontStyle": 0,
+    "customFontLinespacing": 0.55,
+    "replaceAssets": false,
+    "assetLoadLog": false,
+    "autoChangeLineBreakMode": true,
+    "LineBreakHotKey": "u",
+    "autoFullscreen": false,
+    "resolution_start": [
+        -1,
+        -1
+    ],
+    "aspect_ratio_new": {
+        "w": 16.0,
+        "h": 9.0
+    },
+    "dicts": [
+        "localized_data/dynamic.json"
+    ],
+    "static_dict": "localized_data/static.json",
+    "no_static_dict_cache": true,
+    "text_data_dict": "localized_data/text_data.json",
+    "character_system_text_dict": "localized_data/character_system_text.json",
+    "race_jikkyo_comment_dict": "localized_data/race_jikkyo_comment.json",
+    "race_jikkyo_message_dict": "localized_data/race_jikkyo_message.json",
+    "stories_path": "",
+    "live": {
+        "free_camera": false,
+        "mouseSpeed": 100.0,
+        "force_changeVisibility_false": false,
+        "moveStep": 0.1,
+        "close_all_blur": false,
+        "setLiveFovAsGlobal": false
+    },
+    "homeSettings": {
+        "free_camera": false
+    },
+    "race_camera": {
+        "free_camera": false,
+        "moveStep": 5,
+        "defaultFOV": 40,
+        "freecam_lookat_target": false,
+        "freecam_follow_target": false,
+        "follow_offset": {
+            "distance": 4,
+            "x": 0,
+            "y": 1,
+            "z": 0
+        }
+    },
+    "replaceHomeStandChar": {
+        "enable": false,
+        "data": [
+            {
+                "origCharId": 1046,
+                "newChrId": 2001,
+                "newClothId": 9
+            }
+        ]
+    },
+    "replaceGlobalChar": {
+        "enable": false,
+        "data": []
+    },
+    "loadDll": [],
+    "raceInfoTab": {
+        "enableRaceInfoTab": false,
+        "raceInfoTabAttachToGame": false
+    },
+    "enableBuiltinAutoUpdate": false,
+    "autoUpdate": {
+        "source": "",
+        "path": ""
+    },
+    "readRequestPack": false
+}
