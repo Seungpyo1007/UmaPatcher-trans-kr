@@ -18,5 +18,7 @@ Tap the sync button (on the top right of the Home screen) to download data from 
 # Source repo
 https://github.com/LeadRDRK/umamusu-translate
 
+https://github.com/LeadRDRK/UmaPatcher-trans-en
+
 # Korean only
 https://drive.google.com/drive/folders/1sQ9x6RP_a59AfUb7YWuvy33u7je4s_9c?usp=sharing
