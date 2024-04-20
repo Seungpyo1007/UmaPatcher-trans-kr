@@ -4,13 +4,13 @@
   <a href="README-KR.md">한국어</a> 
 </p>
 
-# MalDDalPatcher - Korean Translations
-This is the Korean translations repository for MalDDalPatcher.
+# UmaPatcher-KR - Korean Translations
+This is the Korean translations repository for UmaPatcher-KR.
 
 ### How to use
-Open MalDDalPatcher, go to Settings and set these values:
+Open UmaPatcher-KR, go to Settings and set these values:
 
-- Git remote: `https://github.com/Seungpyo1007/MalDDalPatcher-Translations-KR.git`
+- Git remote: `https://github.com/Seungpyo1007/UmaPatcher-trans-kr.git`
 - Git branch: `main`
 
 Tap the sync button (on the top right of the Home screen) to download data from the new repository.
