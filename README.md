@@ -8,7 +8,7 @@
 This is the Korean translations repository for UmaPatcher-KR.
 
 ### How to use
-Open UmaPatcher-KR, go to Settings and set these values:
+Open UmaPatcherKR, go to Settings and set these values:
 
 - Git remote: `https://github.com/Seungpyo1007/UmaPatcher-trans-kr.git`
 - Git branch: `main`
