@@ -4,7 +4,7 @@
   <a href="README-KR.md">한국어</a> 
 </p>
 
-# UmaPatcher-KR - Korean Translations
+# UmaPatcherKR - Korean Translations
 This is the Korean translations repository for UmaPatcher-KR.
 
 ### How to use
